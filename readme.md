@@ -7,4 +7,5 @@
 
 <div style="padding-top: 35px; display:inline_block"><br>
 <img align="center" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkowsS&show_icons=false"/>
+<img style="margin-left: 50px; width: 10%;" src="img/joinha.png"/>
 </div>
