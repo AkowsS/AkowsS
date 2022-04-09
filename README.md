@@ -1,16 +1,11 @@
-### Hi there 👋
 
-<!--
-**AkowsS/AkowsS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### Olá👋
+        <h1>Meu nome é Ailton tenho 23 anos e estou cursando Engenharia da Computação na Universidade Federal do Ceará.<h1>
+        <h3>Focado atualmente no desenvolvimento Front-end e no estudo de Banco de Dados mas tambem possuo conhecimento em outras linguagens como C, Python e Java.</h3>
+        - 🌱 Estudando Front-end e MySQL
+        <br>
+        - 📫 E-mail: ailton.gv@hotmail.com
+        <div style="padding-top: 35px;">
+            <img height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkowsS&show_icons=false">
+            <img style="margin-left: 50px; width: 10%;" src="/img/joinha.png">
+        </div>
