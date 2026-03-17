@@ -1,7 +1,11 @@
 ### Olá👋
-<h1 align = "center">Meu nome é Ailton, tenho 25 anos, e estou cursando Engenharia da Computação na Universidade Federal do Ceará.<h1>
-<h3 align = "center">Focado atualmente no desenvolvimento Front-end e no estudo de Banco de Dados mas também possuo conhecimento em outras linguagens como C, Python e Java.</h3>
-- 🌱 Estudando Front-end e MySQL
+<h1 align = "center">Meu nome é Ailton, tenho 27 anos, e estou cursando Engenharia da Computação na Universidade Federal do Ceará.<h1>
+<h3 align="center">
+Sou Desenvolvedor Frontend, atualmente focado em estudos em Backend.<br>
+Tenho experiência no frontend com React, Angular e Vue, além do desenvolvimento mobile com React Native.<br>
+Também possuo experiência com bancos de dados SQL Server, PostgreSQL, MySQL e Firebase.
+</h3>
+  
 <br>
 - 📫 E-mail: ailton.gv@hotmail.com
 
