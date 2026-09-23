@@ -12,6 +12,5 @@ Desenvolvedor Fullstack com mais de 3 anos de experiência em web e mobile.
 - 📫 E-mail: ailton.gv@hotmail.com
 
 <div style="padding-top: 35px; display:inline_block"><br>
-<img align="center" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkowsS&show_icons=false"/>
 <img style="margin-left: 50px; width: 20%;" src="img/joinha.png"/>
 </div>
