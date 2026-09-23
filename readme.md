@@ -4,7 +4,7 @@
 Desenvolvedor Fullstack com mais de 3 anos de experiência em web e mobile.
 
 - **Front-end:** React, Angular, Vue.js, React Native, TypeScript
-- **Back-end:** Python, FastAPI, Laravel
+- **Back-end:** Python, FastAPI
 - **Bancos:** PostgreSQL, MySQL, Firebase
 </h3>
   
